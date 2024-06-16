@@ -1,6 +1,6 @@
 # Leetcode Attempted Solutions
 
-#### These are the problems attempted while learning DSA in CPP
+#### Here are the problems I worked on while learning DSA with C++.
 
 7 - https://leetcode.com/problems/reverse-integer/
 
