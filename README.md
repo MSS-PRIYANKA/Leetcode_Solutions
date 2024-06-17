@@ -6,4 +6,6 @@
 
 191 - https://leetcode.com/problems/number-of-1-bits/
 
-1281 - https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/
+1009 - https://leetcode.com/problems/complement-of-base-10-integer/
+
+1281 - https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
