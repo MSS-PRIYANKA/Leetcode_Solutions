@@ -13,4 +13,6 @@
 
 1281 - https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 
+1486 - https://leetcode.com/problems/xor-operation-in-an-array/
+
 2433 - https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
